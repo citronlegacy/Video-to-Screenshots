@@ -18,11 +18,11 @@ I recommend not outputting every frame as it would generate thousands of images 
 - **shlex:** A module for parsing strings into tokens, especially useful when dealing with command-line-like syntax.
 - **os:** A module for interacting with the operating system, providing functionality to manage directories and files.
 - **ipywidgets:** A library for creating interactive widgets in Jupyter notebooks.
+- **pytube:** A library for downloading YouTube videos.
+- **zipfile:** A module to work with zip archives in Python.
+
 
 ### Project Disclaimer
 
-**Important Notice:**
-
 This Colab notebook is provided for educational and informational purposes only. The content and code within this notebook are not intended for production use, and any actions taken based on the provided information are at your own risk.
-
----
+When using the `pytube` library to download videos from YouTube, please be aware of YouTube's terms of service. Unauthorized downloading of videos may violate YouTube's terms.
