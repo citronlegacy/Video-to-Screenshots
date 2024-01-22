@@ -1,9 +1,11 @@
 # Video to Screenshots
 
-| |GitHub| Colab | |
-|:--|:-:|:-:|:-:|
+| Project |GitHub| Colab |
+|:--|:-:|:-:|
 | 🎬 **Video To Screenshots** | [![GitHub](https://img.shields.io/badge/GitHub-Visit-brightgreen.svg)](https://github.com/citronlegacy/Video-to-Screenshots/blob/main/Video-to-Screenshots.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/citronlegacy/Video-to-Screenshots/blob/main/Video-to-Screenshots.ipynb) |
 | 🎬 **Youtube Video to Screenshots** | [![GitHub](https://img.shields.io/badge/GitHub-Visit-brightgreen.svg)](https://github.com/citronlegacy/Video-to-Screenshots/blob/main/Youtube-Video-to-Screenshots.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/citronlegacy/Video-to-Screenshots/blob/main/Youtube-Video-to-Screenshots.ipynb) |
+| 🔄 **Duplicate Image Deleter** | [![GitHub](https://img.shields.io/badge/GitHub-Visit-brightgreen.svg)](https://github.com/citronlegacy/Video-to-Screenshots/blob/main/Duplicate_Image_Deleter.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/citronlegacy/Video-to-Screenshots/blob/main/Duplicate_Image_Deleter.ipynb) |
+
 
 ### Project Description
 
