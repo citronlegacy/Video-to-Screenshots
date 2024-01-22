@@ -7,6 +7,15 @@
 | 🎬 **Youtube Video to Screenshots** | [![GitHub](https://img.shields.io/badge/GitHub-Visit-brightgreen.svg)](https://github.com/citronlegacy/Video-to-Screenshots/blob/main/Youtube-Video-to-Screenshots.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/citronlegacy/Video-to-Screenshots/blob/main/Youtube-Video-to-Screenshots.ipynb) |
 | 🔄 **Duplicate Image Deleter** | [![GitHub](https://img.shields.io/badge/GitHub-Visit-brightgreen.svg)](https://github.com/citronlegacy/Video-to-Screenshots/blob/main/Duplicate_Image_Deleter.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/citronlegacy/Video-to-Screenshots/blob/main/Duplicate_Image_Deleter.ipynb) |
 
+| Check out my other content | Link |
+|:--|:-:|
+| ☕ Ko-fi | [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Support-orange.svg)](https://ko-fi.com/citronlegacy) |
+| 🤖 CivitAI | [![CivitAI](https://img.shields.io/badge/CivitAI-Models-blue.svg)](https://civitai.com/user/CitronLegacy/models) |
+| 🎨 Pixiv | [![Pixiv](https://img.shields.io/badge/Pixiv-Profile-purple.svg)](https://www.pixiv.net/en/users/95364318) |
+| 🎬 Youtube  | [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red.svg)](https://www.youtube.com/@FujiwaraNoMokou11) |
+
+
+
 
 ### Project Description
 
